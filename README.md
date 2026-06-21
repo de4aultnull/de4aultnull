@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My own OS from scratsh<br>🌱 I’m currently learning Cyber Security (OSINT)<br>💬 Ask me about it!<br>⚡ Fun fact: I'm human
+🔭 I’m currently working on My own OS from scratch<br>🌱 I’m currently learning Cyber Security (OSINT)<br>💬 Ask me about it!<br>⚡ Fun fact: I'm human
 
 
 ## 🌐 Socials:
